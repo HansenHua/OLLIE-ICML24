@@ -10,7 +10,7 @@ we propose a principled offline-to-online IL method, named \texttt{OLLIE}, that 
 ### Installation
 1. Clone repo
     ```bash
-    git clone [https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning.git](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning.git)
+    git clone [https://github.com/HansenHua/OLLIE-ICML24.git](https://github.com/HansenHua/OLLIE-ICML24.git)
     cd OLLIE-offline-to-online-imitation-learning
     ```
 2. Install dependent packages
@@ -33,7 +33,7 @@ You could adapt it to your own needs.
 	```
     python main.py
 	```
-	The log files will be stored in [https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning](https://github.com/HansenHua/OLLIE-offline-to-online-imitation-learning).
+	The log files will be stored in [https://github.com/HansenHua/OLLIE-ICML24](https://github.com/HansenHua/OLLIE-ICML24).
 ## :checkered_flag: Testing
 Illustration
 
@@ -41,4 +41,4 @@ We alse provide the performance of our model. The illustration videos are stored
 
 ## :e-mail: Contact
 
-If you have any question, please email `xingyuanhua@bit.edu.cn`.
+If you have any question, please email `huaxy24@mails.tsinghua.edu.cn`.
